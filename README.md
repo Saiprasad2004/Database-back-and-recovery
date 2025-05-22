@@ -44,4 +44,5 @@ codtech_backup.sql
 ![Image](https://github.com/user-attachments/assets/e696d339-6d8e-4450-af3c-0776c977e688)
 
 #3.output after running the batch scripts - MYSQL bakp and restore
+![Image](https://github.com/user-attachments/assets/68e936fb-8a29-40c0-835f-ff7d72f8c91d)
 
